@@ -1,4 +1,4 @@
-### Hi there 👋
+# Yo! I'm Jason, I'm a Brazilian Dev.
 
 <!--
 **JasonH33/JasonH33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![JH33 GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonh33&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonh33&layout=compact&theme=vision-friendly-dark)
