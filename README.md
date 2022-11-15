@@ -4,6 +4,7 @@
 <a href="https://twitter.com/H33_Jason" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a rel="me" href="https://techhub.social/@JasonH33" target="_blank"><img src="https://camo.githubusercontent.com/16d567b3e6912ef40cad45ea0792a0ecae39cf0e553d97050208f24ef0d19c4e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6173746f646f6e26636f6c6f723d363336344646266c6f676f3d4d6173746f646f6e266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
 <a href="https://dev.to/jasonh33" target="_blank"><img src="https://camo.githubusercontent.com/5b9d8e56b12b0446df22dba7c0304c1efd6dfb4941d67548d128e4b6ae07b7ea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6465762e746f26636f6c6f723d304130413041266c6f676f3d6465762e746f266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1GE5YA)
 <!--
 **JasonH33/JasonH33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
